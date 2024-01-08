@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparente">#00FFFFFF</color>
+
+    <color name="preto">#FF000000</color>
+    <color name="vinho1">#1d060f</color>
+    <color name="vinho2">#2e0a19</color>
+    <color name="vinho3">#420522</color>
+    <color name="vinho4">#4c0027</color>
+    <color name="vinho5">#5b1134</color>
+    <color name="vinho6">#7b304f</color>
+    <color name="vinho7">#9b4d6b</color>
+    <color name="vinho8">#bc6b89</color>
+
+    <color name="azul1">#005187</color>
+    <color name="azul2">#336ca5</color>
+    <color name="azul3">#5589c4</color>
+    <color name="azul4">#74a7e4</color>
+    <color name="azul5">#98c0f6</color>
+    <color name="azul6">#98c0f6</color>
+    <color name="azul7">#bbd5f9</color>
+    <color name="azul8">#dceafc</color>
+    <color name="branco">#FFFFFFFF</color>
+
+    <attr name="iconTint" format="reference|color" />
+    <attr name="bg_color" format="reference|color" />
+
+</resources>

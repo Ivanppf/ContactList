@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:background">@color/azul8</item>
+        <item name="bg_color">@color/azul8</item>
+        <item name="colorPrimary">@color/azul1</item>
+        <item name="android:colorControlActivated">@color/azul1</item>
+        <item name="iconTint">@color/azul1</item>
+        <item name="android:textAppearanceButton">@color/branco</item>
+    </style>
+
+    <style name="Theme.LoginApp" parent="Base.Theme.LoginApp" />
+</resources>

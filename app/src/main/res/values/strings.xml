@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="nome_usuario">nome de usuário</string>
+    <string name="senha">senha</string>
+    <string name="manter_me_conectado">Manter-me conectado</string>
+    <string name="nao_tem_uma_conta_cadastre_se">Não tem uma conta? Cadastre-se!</string>
+    <string name="esqueci_minha_senha">Esqueci minha senha</string>
+    <string name="confirmar_senha">confirmar senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="as_senhas_devem_ser_iguais">As senhas devem ser iguais</string>
+    <string name="por_favor_insira_todos_os_campos_requeridos">Por favor, insira todos os campos requeridos</string>
+    <string name="cadastro_concluido">Cadastro concluído</string>
+    <string name="erro_de_cadastro">Erro de cadastro</string>
+    <string name="erro_de_login">Erro de login</string>
+    <string name="sair">Sair</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvo_com_sucesso">Salvo com sucesso!</string>
+    <string name="erro_ao_salvar_contato">Erro ao salvar contato</string>
+    <string name="operacao_cancelada">Operação cancelada</string>
+    <string name="deletar">Deletar</string>
+    <string name="contato_editado">Contato editado</string>
+    <string name="contato_deletado">Contato deletado</string>
+    <string name="erro_ao_deletar_contato">Erro ao deletar contato</string>
+    <string name="novo_contato">Novo contato</string>
+    <string name="selecione_uma_imagem">Selecione uma imagem</string>
+    <string name="remover_imagem">Remover imagem</string>
+    <string name="detalhes_do_contato">Detalhes do contato</string>
+    <string name="editar">Editar</string>
+    <string name="voltar">Voltar</string>
+</resources>
